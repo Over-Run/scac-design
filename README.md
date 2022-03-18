@@ -1,3 +1,3 @@
 # scac-design
 
-School Architect Design
+School Architect 设计原稿
